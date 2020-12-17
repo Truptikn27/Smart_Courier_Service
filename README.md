@@ -28,6 +28,8 @@ After viewing the booking if that booking is related to his/her area can proceed
 	* Payment Details <br/>
 The user must first register them by giving user id and password and related details, after they can login to the software. The user can book for the Courier delivery this booking comes with a unique ID i.e. CNN number which is used for tracking the status of the courier. Once they are notified by SMS or E-mail can get the bill of their booking. By checking the payment details the user can pay bill via online or offline and after delivery the user must give the feedback of their experience.
 ![image](https://user-images.githubusercontent.com/73877021/102515153-656e8e80-40b3-11eb-832a-ce583b7762cd.png)
+### ER Diagram ###
+![image](https://user-images.githubusercontent.com/73877021/102517254-d57e1400-40b5-11eb-9878-88f4a00bcea9.png)
 
 
 
